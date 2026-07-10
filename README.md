@@ -14,6 +14,7 @@ From concept design and 3D modelling to material process and production, this re
 ![MMAN4200 thumbnail](assets/thumbnails/mman4200.jpg)
 
 **中文：** 增材制造设计课程小组项目，用柔性铰链结构代替传统轴承实现 3 自由度防抖云台。独立完成弹簧片厚度等关键尺寸的有限元仿真与打印测试迭代，并负责全部零件的 3D 打印 DFM 优化。
+
 **关键词：** 柔性机构设计、FEA、3D打印DFM
 
 **English:** Additive manufacturing design course group project — a 3-DOF anti-shake gimbal using flexure hinges instead of conventional bearings. Independently ran FEA and iterative print testing on key dimensions (e.g. spline height), and handled DFM optimisation for every printed part.
@@ -30,6 +31,7 @@ From concept design and 3D modelling to material process and production, this re
 ![Talon 1400 thumbnail](assets/thumbnails/talon1400.jpg)
 
 **中文：** 基于开源固定翼机型 Flightory Talon 1400 改造，3D 打印发泡机身，搭载 SpeedyBee 飞控与 WalkSnail 图传。首飞坠毁后独立完成失效分析（油门过大→瞬时扭力过高→打印件剪切断裂），并提出油门曲线限制与局部填充密度强化的解决方案，同时探索实用复合材料的可能性。
+
 **关键词：** 结构失效分析、飞控调试、3D打印机身
 
 **English:** Built from the open-source Flightory Talon 1400 fixed-wing kit — a 3D-printed foam fuselage fitted with a SpeedyBee flight controller and WalkSnail FPV system. After a crash on the maiden flight, independently diagnosed the failure (excessive throttle → torque spike → shear failure in the printed part) and fixed it with throttle-curve limiting plus localised infill reinforcement, along with exploring the possible use of composite materials.
@@ -46,6 +48,7 @@ UNSW 大三课程项目 / Year 3 course project
 ![MTRN3100 thumbnail](assets/thumbnails/micromouse.jpg)
 
 **中文：** 机器人设计课程小组项目，完成对迷宫机器人的全栈开发。
+
 **关键词：** 机械设计、DFM、减震机构设计、MCU开发
 
 **English:** Robot design course group project — Solo developer of the maze-solving micromouse robot.
@@ -61,6 +64,7 @@ UNSW 大三课程项目 / Year 3 course project
 ![Voron 2.4 thumbnail](assets/thumbnails/voron24.jpg)
 
 **中文：** 从零搭建开源 CoreXY 打印机，独立完成机架、电控、固件与运动调试全流程；后续升级为四驱（All-Wheel-Drive）架构，打印速度提升至 1000mm/s。诊断并向厂商反馈了主板高频信号导致丢步的问题。
+
 **关键词：** 机构搭建、故障诊断、振动补偿
 
 **English:** Built an open-source CoreXY 3D printer from scratch — frame, electronics, firmware and motion tuning all done independently. Later upgraded to an all-wheel-drive (4-motor) configuration, raising print speed to 1000mm/s. Diagnosed a mainboard high-frequency crosstalk issue causing missed steps and reported it to the manufacturer.
@@ -77,6 +81,7 @@ UNSW 大三课程项目 / Year 3 course project
 ![Wheeltech thumbnail](assets/thumbnails/wheeltech.jpg)
 
 **中文：** 麦克纳姆轮底盘概念验证项目，集成 RPLIDAR 与双目结构光相机做多传感器融合。后期研发纯TPU打印的柔性轮胎，这套轮组机械设计经验后来直接用在了 UNSW Bluesat ARC 月球车挑战赛的轮子设计上。
+
 **关键词：** 传感器融合、增料加工轮组设计
 
 **English:** A Mecanum-wheel platform proof-of-concept integrating an RPLIDAR and a stereo structured-light camera for multi-sensor fusion. A purely 3D-printed tire design was later developed that used flexible TPU as its material, the experience from this design was later applied directly to the wheel design for UNSW Bluesat's ARC lunar rover challenge.
@@ -93,6 +98,7 @@ UNSW 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 
 ![DESN1000 thumbnail](assets/thumbnails/desn1000.jpg)
 
 **中文：** 大一工业设计与加工制造课程作品，履带式地形搜救机器人。用激光切割尼龙布+鱼线缝合 3D 打印履带板，把履带系统成本压到 5 澳元以内，是本课程历年最低成本履带设计方案。
+
 **关键词：** 低成本机构设计、模块化、履带系统
 
 **English:** First-year Industrial Design & Manufacturing course project — a tracked search-and-rescue robot. Hand-sewed 3D-printed track plates with laser-cut nylon fabric and fishing line, bringing the entire track system in under 5AUD — the lowest-cost solution in the course's history for tank track desgn.
