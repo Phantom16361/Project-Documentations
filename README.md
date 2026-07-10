@@ -21,7 +21,7 @@ From concept design and 3D modelling to material process and production, this re
 
 **Highlights:** Flexure mechanism design, FEA, 3D-print DFM
 
-**详情 / Details:** [中文](<MMAN4200 Phone Stabiliser>/README_CN.md) | [English](<MMAN4200 Phone Stabiliser>/README_EN.md)
+**详情 / Details:** [中文](MMAN4200%20Phone%20Stabiliser/README_CN.md) | [English](MMAN4200%20Phone%20Stabiliser/README_EN.md)
 
 ---
 
@@ -38,7 +38,7 @@ From concept design and 3D modelling to material process and production, this re
 
 **Highlights:** Structural failure analysis, flight-controller tuning, 3D-printed fuselage
 
-**详情 / Details:** [中文](<Talon 1400>/README_CN.md) | [English](<Talon 1400>/README_EN.md)
+**详情 / Details:** [中文](Talon%201400/README_CN.md) | [English](Talon%201400/README_EN.md)
 
 ---
 
@@ -54,7 +54,7 @@ UNSW 大三课程项目 / Year 3 course project
 **English:** Robot design course group project — Solo developer of the maze-solving micromouse robot.
 
 **Highlights:** Mechanical design, Design-for-manufacturing, vibration daping design, MCU programming
-**详情 / Details:** [中文](<MTRN3100 Micromouse>/README_CN.md) | [English](<MTRN3100 Micromouse>/README_EN.md)
+**详情 / Details:** [中文](MTRN3100%20Micromouse/README_CN.md) | [English](MTRN3100%20Micromouse/README_EN.md)
 
 ---
 
@@ -71,7 +71,7 @@ UNSW 大三课程项目 / Year 3 course project
 
 **Highlights:** Mechanical build, fault diagnosis, resonance compensation
 
-**详情 / Details:** [中文](<Voron 2.4>/README_CN.md) | [English](<Voron 2.4>/README_EN.md)
+**详情 / Details:** [中文](Voron%202.4/README_CN.md) | [English](Voron%202.4/README_EN.md)
 
 ---
 
@@ -88,7 +88,7 @@ UNSW 大三课程项目 / Year 3 course project
 
 **Highlights:** Sensor fusion, Additive manufacturing tire design
 
-**详情 / Details:** [中文](<Wheeltech UGV>/README_CN.md) | [English](<Wheeltech UGV>/README_EN.md)
+**详情 / Details:** [中文](Wheeltech%20UGV/README_CN.md) | [English](Wheeltech%20UGV/README_EN.md)
 
 ---
 
@@ -105,7 +105,7 @@ UNSW 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 
 
 **Highlights:** Low-cost mechanism design, modularity, tracked drive system
 
-**详情 / Details:** [中文](<DESN1000 Robot to the Rescue>/README_CN.md) | [English](<DESN1000 Robot to the Rescue>/README_EN.md)
+**详情 / Details:** [中文](DESN1000%20Robot%20to%20the%20Rescue/README_CN.md) | [English](DESN1000%20Robot%20to%20the%20Rescue/README_EN.md)
 
 ---
 
@@ -117,7 +117,7 @@ UNSW 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 
 **中文：** 面向医学研究的心脏细胞团抓取与心跳检测的高精度直角坐标机器人，重复定位精度达 0.01mm。独立完成精密执行机构设计、运动控制与检测传感集成。详细说明整理中，稍后补充完整文档。
 **English:** A high-precision Cartesian robot for medical research, grasping cardiac cell aggregates while simultaneously detecting heartbeat, with 0.01mm repeatability. Independently designed the precision actuation mechanism, motion control, and sensing integration. Full write-up coming soon.
 
-**详情 / Details:** [中文](<Thesis Project>/README_CN.md) | [English](<Thesis Project>/README_EN.md)
+**详情 / Details:** [中文](Thesis%20Project/README_CN.md) | [English](Thesis%20Project/README_EN.md)
 
 ---
 
