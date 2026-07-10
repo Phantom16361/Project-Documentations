@@ -54,4 +54,4 @@ Fitted with a SpeedyBee flight controller plus a WalkSnail digital FPV system an
 
 ## My Role
 
-Independently handled the fuselage's 3D-printing design and build, avionics installation and setup, and flight testing. After the crash, independently carried out the failure analysis (linking torque to shear failure) and proposed the two-part fix: throttle-curve limiting plus localised infill reinforcement.
+Independently handled the fuselage's 3D-printing slicing and build, avionics installation and setup, and flight testing. After the crash, independently carried out the failure analysis (linking torque to shear failure) and proposed the two-part fix: throttle-curve limiting plus localised infill reinforcement.
