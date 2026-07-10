@@ -4,7 +4,7 @@
 **Mechanical Design & Process-Oriented Engineer** · UNSW Mechatronic Engineering & Robotics
 **Mechanical Design & Process-Oriented Engineer** · UNSW Mechatronic Engineering & Robotics
 
-从概念设计、三维建模到材料工艺、量产落地，这里整理了我的个人及团队项目。每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
+机械设计，建模，加工制造，控制理论，系统设计，软件/固件开发，这里整理了近年来我的个人及团队项目。每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
 From concept design and 3D modelling to material process and production, this repo documents my personal and team projects. Each folder contains full photo/video records and detailed write-ups (bilingual CN/EN).
 
 ---
@@ -17,6 +17,7 @@ From concept design and 3D modelling to material process and production, this re
 **关键词：** 柔性机构设计、FEA、3D打印DFM
 
 **English:** Additive manufacturing design course group project — a 3-DOF anti-shake gimbal using flexure hinges instead of conventional bearings. Independently ran FEA and iterative print testing on key dimensions (e.g. spline height), and handled DFM optimisation for every printed part.
+
 **Highlights:** Flexure mechanism design, FEA, 3D-print DFM
 
 **详情 / Details:** [中文](<MMAN4200 Phone Stabiliser>/README_CN.md) | [English](<MMAN4200 Phone Stabiliser>/README_EN.md)
@@ -32,6 +33,7 @@ From concept design and 3D modelling to material process and production, this re
 **关键词：** 结构失效分析、飞控调试、3D打印机身
 
 **English:** Built from the open-source Flightory Talon 1400 fixed-wing kit — a 3D-printed foam fuselage fitted with a SpeedyBee flight controller and WalkSnail FPV system. After a crash on the maiden flight, independently diagnosed the failure (excessive throttle → torque spike → shear failure in the printed part) and fixed it with throttle-curve limiting plus localised infill reinforcement, along with exploring the possible use of composite materials.
+
 **Highlights:** Structural failure analysis, flight-controller tuning, 3D-printed fuselage
 
 **详情 / Details:** [中文](<Talon 1400>/README_CN.md) | [English](<Talon 1400>/README_EN.md)
@@ -47,6 +49,7 @@ UNSW 大三课程项目 / Year 3 course project
 **关键词：** 机械设计、DFM、减震机构设计、MCU开发
 
 **English:** Robot design course group project — Solo developer of the maze-solving micromouse robot.
+
 **Highlights:** Mechanical design, Design-for-manufacturing, vibration daping design, MCU programming
 **详情 / Details:** [中文](<MTRN3100 Micromouse>/README_CN.md) | [English](<MTRN3100 Micromouse>/README_EN.md)
 
@@ -61,6 +64,7 @@ UNSW 大三课程项目 / Year 3 course project
 **关键词：** 机构搭建、故障诊断、振动补偿
 
 **English:** Built an open-source CoreXY 3D printer from scratch — frame, electronics, firmware and motion tuning all done independently. Later upgraded to an all-wheel-drive (4-motor) configuration, raising print speed to 1000mm/s. Diagnosed a mainboard high-frequency crosstalk issue causing missed steps and reported it to the manufacturer.
+
 **Highlights:** Mechanical build, fault diagnosis, resonance compensation
 
 **详情 / Details:** [中文](<Voron 2.4>/README_CN.md) | [English](<Voron 2.4>/README_EN.md)
@@ -76,6 +80,7 @@ UNSW 大三课程项目 / Year 3 course project
 **关键词：** 传感器融合、增料加工轮组设计
 
 **English:** A Mecanum-wheel platform proof-of-concept integrating an RPLIDAR and a stereo structured-light camera for multi-sensor fusion. A purely 3D-printed tire design was later developed that used flexible TPU as its material, the experience from this design was later applied directly to the wheel design for UNSW Bluesat's ARC lunar rover challenge.
+
 **Highlights:** Sensor fusion, Additive manufacturing tire design
 
 **详情 / Details:** [中文](<Wheeltech UGV>/README_CN.md) | [English](<Wheeltech UGV>/README_EN.md)
@@ -91,6 +96,7 @@ UNSW 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 
 **关键词：** 低成本机构设计、模块化、履带系统
 
 **English:** First-year Industrial Design & Manufacturing course project — a tracked search-and-rescue robot. Hand-sewed 3D-printed track plates with laser-cut nylon fabric and fishing line, bringing the entire track system in under 5AUD — the lowest-cost solution in the course's history for tank track desgn.
+
 **Highlights:** Low-cost mechanism design, modularity, tracked drive system
 
 **详情 / Details:** [中文](<DESN1000 Robot to the Rescue>/README_CN.md) | [English](<DESN1000 Robot to the Rescue>/README_EN.md)
