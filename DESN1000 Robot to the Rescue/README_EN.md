@@ -48,6 +48,19 @@ Started from concept sketches to settle on a tracked-drive chassis:
 
 **Demo video:** [Design montage of version 1.0.mp4](Design%20montage%20of%20version%201_0.mp4)
 
+## Independent Dev Kits
+
+To let the software team start on ultrasonic mapping and motion control early — without waiting for the chassis design to be finalised — I split the key sensor and drive modules into two standalone dev kits:
+
+- **Ultrasonic radar sensing module**: packaged the ultrasonic sensor and controller board into a small standalone unit for a teammate to develop the mapping logic on; once the chassis design was finalised, this module was unplugged and mounted straight onto the robot with no extra tuning needed
+- **Motion-control test chassis**: as soon as the V1.0 chassis was finished, it was handed to a teammate to test motion-control algorithms without waiting for the body and gripper to be completed
+
+![Ultrasonic sensor dev kit](Ultrasonic%20sensor%20dev%20kit.jpg)
+*Ultrasonic radar dev kit, later unplugged and mounted onto the robot*
+
+![V1.0 handed off for motion control testing](V1.0%20handed%20off%20for%20motion%20control%20testing.jpg)
+*V1.0 chassis handed to a teammate for motion-control testing*
+
 ## Sensing & Software Architecture
 
 The whole robot was designed to be highly modular for fast iteration and re-purposing. Software was split across three layers:
