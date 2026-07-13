@@ -8,7 +8,7 @@ Given the course-provided circuit board, design a robot (Micromouse) that can re
 
 ## My Role
 
-Mechanical design, modelling, and manufacturing; team lead. Later handled software troubleshooting and mechanical/electronic component iteration.
+ Independently delivered the full stack — mechanical design, modelling, manufacturing, assembly, software architecture, and pathfinding — after most teammates dropped off later in the project.
 
 ## CAD Design
 
@@ -16,7 +16,7 @@ Mechanical design, modelling, and manufacturing; team lead. Later handled softwa
 *Isometric CAD view*
 
 ![CAD Bottom View](CAD%20Bottom%20View.jpg)
-*Bottom view*
+*Bottom view: omniwheels front and rear*
 
 ## V1.2 "Manta"
 
@@ -25,15 +25,15 @@ Mechanical design, modelling, and manufacturing; team lead. Later handled softwa
 
 **Video:** [Manta V1_2 video.mp4](Manta%20V1_2%20video.mp4)
 
-## Suspension Experiment
+## Custom Flexure Suspension System
 
-Experimented with a flexure-based suspension system:
+Between the front and rear omniwheels, I designed a self-developed one-piece 3D-printed flexure suspension — a single printed part whose elastic deformation replaces a conventional multi-component suspension mechanism, reducing assembly complexity and failure points.
 
 ![Experimental flexure CAD](Experimental%20flexture%20CAD.jpg)
-*Flexure suspension CAD*
+*Flexure suspension CAD design*
 
 ![Experimental flexure suspension design](Experimental%20flexture%20suspension%20design.jpg)
-*Flexure suspension design*
+*Slicer preview and test-print validation*
 
 **Video:** [Suspention Design.mp4](Suspention%20Design.mp4)
 
@@ -45,8 +45,10 @@ Experimented with a flexure-based suspension system:
 
 ## V2 Iteration
 
+The omniwheels and flexure suspension were integrated into the final V2 chassis:
+
 ![V2 in development](V2%20in%20development.jpg)
 *V2 in development*
 
 ![V2 Full view](V2%20Full%20view.jpg)
-*V2 complete*
+*V2 complete, showing the front/rear omniwheels and one-piece flexure suspension*
