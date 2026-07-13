@@ -2,11 +2,11 @@
 
 **机械设计与工艺导向工程师** · UNSW 机电一体化与机器人学 (荣誉学士） · [LinkedIn](https://www.linkedin.com/in/chenyi-zhang-607550284/)
 
-着重于机械设计与工艺，同时具备控制理论、系统设计与软件/固件开发的跨领域经验。这里整理了近年来我的个人及团队项目，每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
+拥有丰富的机械设计与工艺经验，同时具备控制理论、系统设计与软件/固件开发的跨领域经验。这里整理了近年来我的个人及团队项目，每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
 
 **Mechanical Design & Process-Oriented Engineer** · UNSW Mechatronic & Robotics Engineering (Honours)
 
-Grounded in mechanical design and manufacturing, with cross-disciplinary experience spanning control theory, systems design, and software/firmware development. This repo documents my personal and team projects — each folder contains full photo/video records and detailed write-ups (bilingual CN/EN).
+Experienced in mechanical design and manufacturing, with cross-disciplinary experience spanning control theory, systems design, and software/firmware development. This repo documents my personal and team projects — each folder contains full photo/video records and detailed write-ups (bilingual CN/EN).
 
 ---
 
