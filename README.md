@@ -1,10 +1,61 @@
 # Chenyi Zhang (Jason Tomczyk) — Project Portfolio
 
 **机械设计与工艺导向工程师** · UNSW 机电一体化与机器人学 · [LinkedIn](https://www.linkedin.com/in/chenyi-zhang-607550284/)
+
+扎根机械设计与工艺，同时具备控制理论、系统设计与软件/固件开发的跨领域经验。这里整理了近年来我的个人及团队项目，每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
+
 **Mechanical Design & Process-Oriented Engineer** · UNSW Mechatronic Engineering & Robotics
 
-机械设计，建模，加工制造，控制理论，系统设计，软件/固件开发，这里整理了近年来我的个人及团队项目。每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
-From concept design and 3D modelling to material process and production, this repo documents my personal and team projects. Each folder contains full photo/video records and detailed write-ups (bilingual CN/EN).
+Grounded in mechanical design and manufacturing, with cross-disciplinary experience spanning control theory, systems design, and software/firmware development. This repo documents my personal and team projects — each folder contains full photo/video records and detailed write-ups (bilingual CN/EN).
+
+---
+
+## 项目索引 / Project Index
+
+### 毕业设计 · Thesis Project
+2026
+
+![Thesis thumbnail](assets/thumbnails/thesis.jpg)
+
+**中文：** 面向医学研究的心脏细胞团抓取与心跳检测的高精度直角坐标机器人，重复定位精度达 0.01mm。独立完成精密执行机构设计、运动控制与检测传感集成。
+
+**English:** A high-precision Cartesian robot for medical research, grasping cardiac cell aggregates while simultaneously detecting heartbeat, with 0.01mm repeatability. Independently designed the precision actuation mechanism, motion control, and sensing integration.
+
+**详情 / Details:** [中文](Thesis%20Project/README_CN.md) | [English](Thesis%20Project/README_EN.md)
+
+---
+
+### MTRN3100 Micromouse 迷宫机器人
+2025-05 ~ 2025-08 · UNSW 大三课程项目 / Year 3 course project
+
+![MTRN3100 thumbnail](assets/thumbnails/micromouse.jpg)
+
+**中文：** 机器人设计课程小组项目，团队后期人员流失后，独立完成机械设计、建模、加工制造、组装、软件架构与寻路算法全部工作，并自主研发柔性铰链一体式3D打印悬挂系统。
+
+**关键词：** 机械设计、DFM、柔性减震机构设计、MCU开发
+
+**English:** Robot design course group project. After most teammates dropped off, independently completed the mechanical design, modelling, manufacturing, assembly, software architecture, and pathfinding algorithm — including a self-developed one-piece 3D-printed flexure suspension system.
+
+**Highlights:** Mechanical design, DFM, flexure-based suspension design, MCU programming
+
+**详情 / Details:** [中文](MTRN3100%20Micromouse/README_CN.md) | [English](MTRN3100%20Micromouse/README_EN.md)
+
+---
+
+### MMAN4200 手机稳定器（柔性铰链云台） · Phone Stabiliser
+2024
+
+![MMAN4200 thumbnail](assets/thumbnails/mman4200.jpg)
+
+**中文：** 增材制造设计课程小组项目，用柔性铰链结构代替传统轴承实现 3 自由度防抖云台。独立完成弹簧片厚度等关键尺寸的有限元仿真与打印测试迭代，并负责全部零件的 3D 打印 DFM 优化。
+
+**关键词：** 柔性机构设计、FEA、3D打印DFM
+
+**English:** Additive manufacturing design course group project — a 3-DOF anti-shake gimbal using flexure hinges instead of conventional bearings. Independently ran FEA and iterative print testing on key dimensions (e.g. spline height), and handled DFM optimisation for every printed part.
+
+**Highlights:** Flexure mechanism design, FEA, 3D-print DFM
+
+**详情 / Details:** [中文](MMAN4200%20Phone%20Stabiliser/README_CN.md) | [English](MMAN4200%20Phone%20Stabiliser/README_EN.md)
 
 ---
 
@@ -42,59 +93,6 @@ From concept design and 3D modelling to material process and production, this re
 
 ---
 
-### MTRN3100 Micromouse 迷宫机器人
-UNSW 大三课程项目 / Year 3 course project
-
-![MTRN3100 thumbnail](assets/thumbnails/micromouse.jpg)
-
-**中文：** 机器人设计课程小组项目，完成对迷宫机器人的全栈开发。
-
-**关键词：** 机械设计、DFM、减震机构设计、MCU开发
-
-**English:** Robot design course group project — Solo developer of the maze-solving micromouse robot.
-
-**Highlights:** Mechanical design, Design-for-manufacturing, vibration damping design, MCU programming
-
-**详情 / Details:** [中文](MTRN3100%20Micromouse/README_CN.md) | [English](MTRN3100%20Micromouse/README_EN.md)
-
----
-
-## 项目索引 / Project Index
-
-### MMAN4200 手机稳定器（柔性铰链云台） · Phone Stabiliser
-2024
-
-![MMAN4200 thumbnail](assets/thumbnails/mman4200.jpg)
-
-**中文：** 增材制造设计课程小组项目，用柔性铰链结构代替传统轴承实现 3 自由度防抖云台。独立完成弹簧片厚度等关键尺寸的有限元仿真与打印测试迭代，并负责全部零件的 3D 打印 DFM 优化。
-
-**关键词：** 柔性机构设计、FEA、3D打印DFM
-
-**English:** Additive manufacturing design course group project — a 3-DOF anti-shake gimbal using flexure hinges instead of conventional bearings. Independently ran FEA and iterative print testing on key dimensions (e.g. spline height), and handled DFM optimisation for every printed part.
-
-**Highlights:** Flexure mechanism design, FEA, 3D-print DFM
-
-**详情 / Details:** [中文](MMAN4200%20Phone%20Stabiliser/README_CN.md) | [English](MMAN4200%20Phone%20Stabiliser/README_EN.md)
-
----
-
-### DESN1000 履带式搜救机器人 "Wall-F"
-UNSW 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 in cohort
-
-![DESN1000 thumbnail](assets/thumbnails/desn1000.jpg)
-
-**中文：** 大一工业设计与加工制造课程作品，履带式地形搜救机器人。用激光切割尼龙布+鱼线缝合 3D 打印履带板，把履带系统成本压到 5 澳元以内，是本课程历年最低成本履带设计方案。
-
-**关键词：** 低成本机构设计、模块化、履带系统
-
-**English:** First-year Industrial Design & Manufacturing course project — a tracked search-and-rescue robot. Hand-sewed 3D-printed track plates with laser-cut nylon fabric and fishing line, bringing the entire track system in under 5AUD — the lowest-cost solution in the course's history for tank track design.
-
-**Highlights:** Low-cost mechanism design, modularity, tracked drive system
-
-**详情 / Details:** [中文](DESN1000%20Robot%20to%20the%20Rescue/README_CN.md) | [English](DESN1000%20Robot%20to%20the%20Rescue/README_EN.md)
-
----
-
 ### Wheeltech 自动驾驶平台 · Autonomous Ground Vehicle
 2023-09 ~ 2025
 
@@ -112,16 +110,20 @@ UNSW 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 
 
 ---
 
-### 毕业设计 · Thesis Project
-2026
+### DESN1000 履带式搜救机器人 "Wall-F"
+2022-09 ~ 2022-12 · 大一课程项目，年级第一作品 / Year 1 course project, ranked #1 in cohort
 
-![Thesis thumbnail](assets/thumbnails/thesis.jpg)
+![DESN1000 thumbnail](assets/thumbnails/desn1000.jpg)
 
-**中文：** 面向医学研究的心脏细胞团抓取与心跳检测的高精度直角坐标机器人，重复定位精度达 0.01mm。独立完成精密执行机构设计、运动控制与检测传感集成。
+**中文：** 大一工业设计与加工制造课程作品，履带式地形搜救机器人。用激光切割尼龙布+鱼线缝合 3D 打印履带板，把履带系统成本压到 5 澳元以内，是本课程历年最低成本履带设计方案。
 
-**English:** A high-precision Cartesian robot for medical research, grasping cardiac cell aggregates while simultaneously detecting heartbeat, with 0.01mm repeatability. Independently designed the precision actuation mechanism, motion control, and sensing integration.
+**关键词：** 低成本机构设计、模块化、履带系统
 
-**详情 / Details:** [中文](Thesis%20Project/README_CN.md) | [English](Thesis%20Project/README_EN.md)
+**English:** First-year Industrial Design & Manufacturing course project — a tracked search-and-rescue robot. Hand-sewed 3D-printed track plates with laser-cut nylon fabric and fishing line, bringing the entire track system in under 5AUD — the lowest-cost solution in the course's history for tank track design.
+
+**Highlights:** Low-cost mechanism design, modularity, tracked drive system
+
+**详情 / Details:** [中文](DESN1000%20Robot%20to%20the%20Rescue/README_CN.md) | [English](DESN1000%20Robot%20to%20the%20Rescue/README_EN.md)
 
 ---
 
