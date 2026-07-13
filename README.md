@@ -2,7 +2,7 @@
 
 **机械设计与工艺导向工程师** · UNSW 机电一体化与机器人学 · [LinkedIn](https://www.linkedin.com/in/chenyi-zhang-607550284/)
 
-扎根机械设计与工艺，同时具备控制理论、系统设计与软件/固件开发的跨领域经验。这里整理了近年来我的个人及团队项目，每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
+着重于机械设计与工艺，同时具备控制理论、系统设计与软件/固件开发的跨领域经验。这里整理了近年来我的个人及团队项目，每个项目文件夹内都有完整的图片/视频记录和详细说明（中英双语）。
 
 **Mechanical Design & Process-Oriented Engineer** · UNSW Mechatronic Engineering & Robotics
 
